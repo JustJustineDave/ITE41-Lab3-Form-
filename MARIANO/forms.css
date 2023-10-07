@@ -1,0 +1,14 @@
+h1{
+	font-family: Hoefler text;
+	font-size: 40px;
+	color: blue
+}
+body{
+	background-color:lightblue
+}
+.MyFormt{
+	background-color:violet;
+	font-family:Times New Roman;
+	font-size:15spx;
+	font-weight:bold
+}
